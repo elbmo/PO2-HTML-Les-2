@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-container {
+    display: flex;
+    background-color: lightgray;
+}
+
+.flex-item {
+    background-color: rgb(93, 189, 81);
+    padding: 10px;
+    margin: 5px;
+}
